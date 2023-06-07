@@ -11,4 +11,4 @@ NAVAPP is not available for iOS yet. (v1.0.0)
 - Start working on the main app framework and release it as a template to [https://github.com/disnos9/swift-app](disnos9/swift-app)
 
 ## About this project
-### [https://github.com/disnos9](disnos9) - Owner of the Better World NAVAPP.
+### [disnos9](https://github.com/disnos9) - Owner of the Better World NAVAPP.
